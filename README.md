@@ -4,7 +4,7 @@ Curriculam Vitae for Software Developer Freshers built in LaTeX.
 
 ## Preview
 
-![CV Preview]()
+![CV Preview](https://github.com/riju-stone/dev-cv/blob/main/preview.png)
 
 ## Motivation
 
