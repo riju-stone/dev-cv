@@ -4,11 +4,11 @@ Curriculam Vitae for Software Developer Freshers built in LaTeX.
 
 ## Preview
 
-![CV Preview]()
+![CV Preview](https://github.com/riju-stone/dev-cv/blob/main/preview.png)
 
 ## Motivation
 
-This cv was originally structured and built by [Debarghya Das](https://github.com/deedy/Deedy-Resume). So, please do check out his his repo. I altered the structure and the font styles a bit to better suit my needs.
+This cv was originally structured and built by [Debarghya Das](https://github.com/deedy/Deedy-Resume). So, please do check out his repo. I altered the structure and the font styles a bit to better suit my needs.
 
 And finally, to quote his own words,
 
